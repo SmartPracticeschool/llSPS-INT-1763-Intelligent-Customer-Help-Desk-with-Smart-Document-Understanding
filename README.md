@@ -12,4 +12,4 @@ I have used the ecobee3_userguide.
 
 Node-Red Dashboard link after deploying : https://node-red-fsndr.mybluemix.net/ui/#!/0?socketid=YdMwiqFGLTTV3gCSAAAA
 
-Youtube video link is : https://www.youtube.com/watch?v=dPBtjVAFEaE
+Youtube video link is : https://www.youtube.com/watch?v=BGeFdFDXIAM
